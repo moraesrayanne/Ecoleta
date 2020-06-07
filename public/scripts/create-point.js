@@ -65,6 +65,8 @@ function handleSelectedItem(event) {
     itemLi.classList.toggle("selected");
     const itemId = itemLi.dataset.id;
 
+    //console.log('ITEM ID: ', itemId);
+
 
     // L O G I C A
 
@@ -94,7 +96,7 @@ function handleSelectedItem(event) {
 
     //Atualizar o campo escondido com os itens selecionados.
 
+    //console.log('selectedItems: ', selectedItems);
+
     collectedItems.value = selectedItems;
 }
-
-
