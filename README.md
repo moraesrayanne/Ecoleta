@@ -1,6 +1,6 @@
 <h1 align="center"> Next Level Week 1.0 - Ecoleta</h1>
 
-<img src="./icones/Ecoleta.jpg">
+<img src="./public/assets/Ecoleta.jpg">
 
 
 ## 💡 Sobre o projeto
@@ -23,7 +23,7 @@
 
 ##  🎨 Layout
 
-<img src="./icones/figma.jpeg">
+<img src="./public/assets/figma.jpeg">
 
 <p align="center">O layout está disponível para visualização através do <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546" alt="Figma" title="Figma - Ecoleta">figma</a>.
 
